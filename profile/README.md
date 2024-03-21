@@ -1,5 +1,7 @@
 # Hephaistos' Forge
 
+## MV Easter Game Jam 2024
+
 ## MV Easter Game Jam 2023
 
 * [Faerie Fire](https://github.com/HephaistosForge/FaerieFire)
