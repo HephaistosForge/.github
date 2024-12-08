@@ -1,5 +1,9 @@
 # Hephaistos' Forge
 
+## MV Christmas Game Jam 2024
+
+[Ocean Dreamer](https://github.com/HephaistosForge/OceanDreamer)
+
 ## MV Easter Game Jam 2024
 
 [Chronominions](https://github.com/HephaistosForge/Chronominions)
